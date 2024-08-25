@@ -12,8 +12,4 @@
     <None Remove="LICENSE" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="RNG\" />
-  </ItemGroup>
-
 </Project>
